@@ -21,4 +21,4 @@ We're dedicated to pushing the boundaries of technology and creating solutions f
 
 Feel free to reach out for collaborations or just a friendly chat about tech!
 
-[🌐 Website](#) | [📧 Email](#)
+[🌐 Website](http://52.79.141.94:9999/) | [📧 Email](https://mail.google.com/mail/?view=cm&fs=1&to=gtjwyaaz@anonaddy.me)
