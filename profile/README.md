@@ -1,6 +1,6 @@
-# 🚀 TreeNut: Innovating the Future of Conversational AI
+# 🚀 TreeNut: Conversational AI
 
-[![TreeNut AI Chat Platform Preview](https://github.com/user-attachments/assets/7b0f84a8-1ed9-4339-92f2-f3c3aeb10bc1)](https://treenut.ddns.net)
+[![alt text](https://lh3.googleusercontent.com/d/1H62LOQ8yeql3HQ5OZT4fIzdydTdMhbiw)](https://treenut.ddns.net)
 
 > TreeNut은 대화형 인공지능의 새로운 가능성을 탐구하는 **AI 기반 웹 챗봇 플랫폼**입니다.  
 > 경량화된 언어 모델과 직관적인 UI를 통해 누구나 쉽게 AI와 소통할 수 있는 환경을 제공합니다.
